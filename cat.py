@@ -12,6 +12,6 @@ stella.age = 7
 stella.speak()
 
 garfield = Cat()
-garfield.name = "Garfiled"
+garfield.name = "Garfield"
 garfield.age = 50
 garfield.speak()
