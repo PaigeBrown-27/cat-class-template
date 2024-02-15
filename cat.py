@@ -1,4 +1,3 @@
-#Revmoe pass and complete the cat class
 class Cat():
     def __init__(self):
         self.name = "Unknown"
@@ -16,7 +15,3 @@ garfield = Cat()
 garfield.name = "Garfiled"
 garfield.age = 50
 garfield.speak()
-
-#Create objects here
-#These should NOT be indented inside the class
-
